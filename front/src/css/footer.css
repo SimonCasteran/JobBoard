@@ -1,0 +1,18 @@
+.footer{
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    color: blue;
+    padding: 1%;
+}
+
+.behindFooter {
+    padding: 16px;
+    margin-top: 5%;
+  }
